@@ -1,6 +1,6 @@
 ---
 title: Marketing Campaign LLM
-emoji: :books:
+emoji: 📚
 colorFrom: red
 colorTo: yellow
 sdk: streamlit
